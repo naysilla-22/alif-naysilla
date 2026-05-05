@@ -4,6 +4,7 @@
   * Membuat jadwal belajar setiap hari
   * Mengerjakan tugas tepat waktu
     ^ belajar coding melalui internet
+    ^ konsisten berlatih setiap minggu
 - Kerjakan tugas tepat waktu
 - Mulai belajar skill tambahan (contoh: coding, desain, atau komunikasi)
 - Kurangi kebiasaan malas dan menunda
